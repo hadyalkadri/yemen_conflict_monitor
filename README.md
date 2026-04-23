@@ -3,7 +3,7 @@
 An end-to-end data engineering and spatial analysis project that transforms raw conflict data into executive-level humanitarian intelligence.
 
 ## 🔗 Live Interactive Dashboard
-[**Click here to view the Interactive Tableau Dashboard**]([(https://public.tableau.com/views/YemenConflictMonitorProject-Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)])
+[**Click here to view the Interactive Tableau Dashboard**](https://public.tableau.com/views/YemenConflictMonitorProject-Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
